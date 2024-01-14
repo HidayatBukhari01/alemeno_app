@@ -1,16 +1,14 @@
 # alemeno_app
 
-A new Flutter project.
+This project is a part of my submission to the assignment given by ALEMENO.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a flutter application which i was asked to develop as a part of the assignment.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Steps to run the project - 
+~ Clone this repository.
+~ Run command - "flutter pub get" in your terminal.
+~ Move to main.dart file.
+~ Make sure to connect a virtual device or real device for debugging.
+~ Run the project.
